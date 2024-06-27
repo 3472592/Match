@@ -1,0 +1,15 @@
+C:\Users\16507\Desktop\Vova Code\C#Games\Match\Match\bin\Debug\Match.exe.config
+C:\Users\16507\Desktop\Vova Code\C#Games\Match\Match\bin\Debug\Match.exe
+C:\Users\16507\Desktop\Vova Code\C#Games\Match\Match\bin\Debug\Match.pdb
+C:\Users\16507\Desktop\Vova Code\C#Games\Match\Match\obj\Debug\Match.csproj.AssemblyReference.cache
+C:\Users\16507\Desktop\Vova Code\C#Games\Match\Match\obj\Debug\MainWindow.g.cs
+C:\Users\16507\Desktop\Vova Code\C#Games\Match\Match\obj\Debug\App.g.cs
+C:\Users\16507\Desktop\Vova Code\C#Games\Match\Match\obj\Debug\Match_MarkupCompile.cache
+C:\Users\16507\Desktop\Vova Code\C#Games\Match\Match\obj\Debug\Match_MarkupCompile.lref
+C:\Users\16507\Desktop\Vova Code\C#Games\Match\Match\obj\Debug\MainWindow.baml
+C:\Users\16507\Desktop\Vova Code\C#Games\Match\Match\obj\Debug\Match.g.resources
+C:\Users\16507\Desktop\Vova Code\C#Games\Match\Match\obj\Debug\Match.Properties.Resources.resources
+C:\Users\16507\Desktop\Vova Code\C#Games\Match\Match\obj\Debug\Match.csproj.GenerateResource.cache
+C:\Users\16507\Desktop\Vova Code\C#Games\Match\Match\obj\Debug\Match.csproj.CoreCompileInputs.cache
+C:\Users\16507\Desktop\Vova Code\C#Games\Match\Match\obj\Debug\Match.exe
+C:\Users\16507\Desktop\Vova Code\C#Games\Match\Match\obj\Debug\Match.pdb
